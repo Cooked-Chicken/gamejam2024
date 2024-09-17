@@ -1,0 +1,4 @@
+repository "gamejam2024@ollopottoc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
